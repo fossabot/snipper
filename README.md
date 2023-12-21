@@ -67,6 +67,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### Landing
 
 ![screen01](./public/screen01.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJeremiasVillane%2Fsnipper.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJeremiasVillane%2Fsnipper?ref=badge_shield)
 
 ### Form to create a new Link
 
@@ -97,3 +98,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Contact me
 
 - [LinkedIn](https://snppr.vercel.app/2Vt7W2xMe)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJeremiasVillane%2Fsnipper.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJeremiasVillane%2Fsnipper?ref=badge_large)
